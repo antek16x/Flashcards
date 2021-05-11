@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nazwa_tablicy">
+        <item>samochód:car</item>
+        <item>drzewo:tree</item>
+        <item>słońce:sun</item>
+        <item>kot:cat</item>
+        <item>pies:dog</item>
+    </array>
+</resources>
